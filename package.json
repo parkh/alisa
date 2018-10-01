@@ -1,0 +1,26 @@
+{
+  "name": "alisa",
+  "version": "0.0.2",
+  "description": "be good",
+  "main": "index.js",
+  "scripts": {
+    "start": "node alisa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkh/alisa.git"
+  },
+  "keywords": [],
+  "author": "dan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/parkh/alisa/issues"
+  },
+  "homepage": "https://github.com/parkh/alisa",
+  "dependencies": {
+    "koa": "^2.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.11.0"
+  }
+}
