@@ -20,7 +20,5 @@
   "dependencies": {
     "koa": "^2.5.0"
   },
-  "devDependencies": {
-    "eslint": "^4.11.0"
-  }
+  "devDependencies": {}
 }
